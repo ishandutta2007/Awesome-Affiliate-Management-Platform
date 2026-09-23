@@ -2,7 +2,7 @@
 
 [![Banner](./assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Affiliate-Management-Platform)
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > **Curated List of SaaS Products & Open-Source GitHub Projects for Affiliate Tracking, Partner Management, Referral Software, and Performance Marketing Automation** 📈
 
@@ -19,7 +19,9 @@
 - [Open-Source GitHub Repositories 💻](#open-source-github-repositories-)
 - [Key Features to Consider 🔍](#key-features-to-consider-)
 - [How to Contribute 🤝](#how-to-contribute-)
+- [Support & Sponsorship 💖](#support--sponsorship-)
 - [Disclaimer ⚠️](#disclaimer-)
+- [Star History 📈](#-star-history)
 
 ---
 
@@ -81,6 +83,16 @@ Contributions are welcome! Help us maintain the definitive guide to affiliate an
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for visiting this repository! If you find this curated ecosystem list helpful for your marketing or development workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork & Share** with your fellow growth marketers and SaaS founders.
+- ☕ **Buy a Coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - This list is **community-curated** for research and evaluation purposes.
@@ -89,4 +101,5 @@ Contributions are welcome! Help us maintain the definitive guide to affiliate an
 
 ---
 
-⭐ **If you find this repository helpful, consider giving it a star!**
+## 📈 Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Affiliate-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Affiliate-Management-Platform&type=date&legend=top-left)
