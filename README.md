@@ -42,7 +42,7 @@ Below is a detailed comparison of leading commercial affiliate tracking and part
 
 ## 💻 Open-Source GitHub Repositories
 
-Self-hosted and open-source affiliate management software gives startups and developers complete data ownership and zero commission overhead. The table below lists active repositories, sorted by **GitHub Stars** in descending order.
+Self-hosted and open-source affiliate management software gives startups and developers complete data ownership and zero commission overhead. The table below lists active repositories, sorted by **GitHub_Stars** in descending order.
 
 | Repository & Link 🐙 | Popularity ⭐️ | Tech Stack & Framework 🛠️ | Description & Use Case 📝 |
 | :--- | :---: | :--- | :--- |
@@ -78,7 +78,7 @@ Contributions are welcome! Help us maintain the definitive guide to affiliate an
 
 1. **Fork** this repository.
 2. Add your SaaS product or open-source repo in **alphabetical or sorted order**.
-3. Follow the markdown table structure, providing factual pricing, scale metrics, or star counts.
+3. Follow the markdown table structure, providing factual pricing, scale metrics, or Stars_Counts.
 4. Open a **Pull Request** detailing your changes.
 
 ---
